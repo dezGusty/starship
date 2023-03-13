@@ -68,3 +68,9 @@ It also shows how path substitution works in starship.
 This preset is inspired by [tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme).
 
 [![Screenshot of Tokyo Night preset](/presets/img/tokyo-night.png "Click to view Tokyo Night preset")](./tokyo-night)
+
+## [Interrupted](./interrupted.md)
+
+This preset favors blues and greens. It also combines some parts of the pastel-powerline interrupted by bracketed segments.
+
+[![Screenshot of Interrupted preset](/presets/img/interrupted.png "Click to view Interrupted preset")](./interrupted)
